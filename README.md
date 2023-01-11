@@ -1,10 +1,8 @@
-# robotic-programming
+# Robot Programming
 
-After updating!!! Yay
+Described is a simulated ROS-based grape-counting robot, operating within a simulated vineyard.
+To successfully run the system and see it working, ideally clone the full robprog repository as this contains not only the scripts but also dependencies such as worlds, rviz visualiser, maps and software tools that were used to reach the end stage of development.
 
-Make Sure Docker (Mac Desktop App) is running (looks like a whale icon)
-
-THEN 
 
 Need to start the ROS environment using Docker...
 
