@@ -10,6 +10,10 @@ Here's a new line
 
 
 
+
+
+
+
 Need to start the ROS environment using Docker...
 
 Navigate to the robprog directory (on the Mac interface) type: docker-compose up
